@@ -21,3 +21,6 @@ Aid in developing precision medicine for esophageal cancer patients.
 hashtag#EsophagealCancer hashtag#DataScience hashtag#AIInHealthcare hashtag#KaggleDataset hashtag#MachineLearning hashtag#CancerResearch hashtag#Innovation hashtag#DigitalHealth 
 hashtag#HealthcareAI hashtag#InnovationInHealthcare hashtag#Kaggle hashtag#OncologyResearch
 hashtag#MedicalAI hashtag#CancerResearch hashtag#PrecisionMedicine hashtag#ArtificialIntelligence hashtag#DigitalHealth hashtag#OncologyInnovation hashtag#DataScienceForGood hashtag#DeepLearning hashtag#HealthTech hashtag#HealthcareAI hashtag#BigDataInHealthcare hashtag#CancerDetection hashtag#AIModels hashtag#InnovationInMedicine hashtag#FutureOfHealthcare hashtag#KaggleCommunity
+
+Google Colab Link:
+https://colab.research.google.com/drive/1aqbY7regxyzXHiPbc8HX6fEfkaJndDhs?usp=sharing
